@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=40&animation=fadeIn" width="100%" />
 <p align="left">
   <h1 >This is my name: Vinn Runkee Cañares</h1>
   <h3 >Goal: Software Developer</h3>
@@ -60,4 +60,4 @@
   <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
