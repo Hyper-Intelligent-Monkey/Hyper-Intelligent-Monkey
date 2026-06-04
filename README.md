@@ -50,23 +50,28 @@
 
 ---
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- Left Project Card -->
-    <td width="50%" valign="top">
-      <br />
-      &nbsp;&nbsp;📖 <b><a href="https://github.com/YOUR_USERNAME/com.thesis.system">com.thesis.system</a></b>
-      <br /><br />
-      &nbsp;&nbsp;<font color="#2ecc71">A context-aware virtual assistant system designed to provide navigational instruction through adaptive guidance.</font>
-      <br /><br />
+    <td width="50%" valign="top" style="padding: 15px;">
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Repo Logo" height="20"/>
+        &nbsp;
+        <b><a href="https://github.com/YOUR_USERNAME/com.thesis.system">com.thesis.system</a></b>
+      </p>
+      <p align="left">
+        <font color="#2ecc71">A context-aware virtual assistant system designed to provide navigational instruction through adaptive guidance.</font>
+      </p>
     </td>
-    <!-- Right Project Card -->
-    <td width="50%" valign="top">
-      <br />
-      &nbsp;&nbsp;📖 <b><a href="https://github.com/YOUR_USERNAME/semantic-api">semantic-api</a></b>
-      <br /><br />
-      &nbsp;&nbsp;<font color="#2ecc71">Backend server engine running natural language processing modules for text preprocessing and intent distillation.</font>
-      <br /><br />
+    <td width="50%" valign="top" style="padding: 15px;">
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Repo Logo" height="20"/>
+        &nbsp;
+        <b><a href="https://github.com/YOUR_USERNAME/semantic-api">semantic-api</a></b>
+      </p>
+      <p align="left">
+        <font color="#2ecc71">Backend server engine running natural language processing modules for text preprocessing and intent distillation.</font>
+      </p>
     </td>
   </tr>
 </table>
