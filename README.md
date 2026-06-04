@@ -53,11 +53,9 @@
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code">
-    <img src="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code" alt="Context-Aware Virtual Assistant Application" width="49%" />
+  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code alt="Context-Aware Virtual Assistant Application" width="49%"">
   </a>
-  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code">
-    <img src="https://github.com/Hyper-Intelligent-Monkey/ThesisSystemServer" alt="Backend LLM Server" width="49%" />
+  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code" alt="Backend LLM Server" width="49%">
   </a>
 </p>
 
