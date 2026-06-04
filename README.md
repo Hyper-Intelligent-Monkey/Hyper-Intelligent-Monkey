@@ -50,7 +50,9 @@
 
 ---
 
-[![Starred Repos](https://github-starred-list.vercel.app/api?username=Hyper-Intelligent-Monkey&limit=5)](https://github.com/Hyper-Intelligent-Monkey?tab=stars)
+#### ⭐ Featured & Starred Projects
+*   [**com.thesis.sytem**](https://github.com/Hyper-Intelligent-Monkey) - Context-aware virtual assistant for Android featuring manual navigation, adaptive guidance, and offline UI highlighting using SQLite.
+*   [**Android Accessibility Tools**](https://github.com/Hyper-Intelligent-Monkey) - Explored integration of Gemini LLMs alongside Android accessibility frameworks.
 
 ---
 
