@@ -51,13 +51,13 @@
 ---
 
 <h2 align="center">Featured Projects</h2>
+*   **[context-aware-virtual-assistant](https://github.com/your-username/your-repo)**  
+    A context-aware virtual assistant system built for the Android platform that provides adaptive guidance and UI highlighting.  
+    `Kotlin` `SQLite` `Gradle`
 
-<p align="center">
-  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code alt="Context-Aware Virtual Assistant Application" width="49%"">
-  </a>
-  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code" alt="Backend LLM Server" width="49%">
-  </a>
-</p>
+*   **[semantic-check-api](https://github.com/your-username/your-repo)**  
+    A backend service optimized for text preprocessing, intent distillation, and structural input verification.  
+    `Python` `FastAPI` `NLTK`
 
 ---
 
