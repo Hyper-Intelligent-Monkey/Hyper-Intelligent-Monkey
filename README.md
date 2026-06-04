@@ -1,5 +1,9 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20YourName&fontSize=40" alt="Header Banner" />
+</p>
 
+<h3 align="center">A passionate Full-Stack Developer from Earth 🌍</h3>
 <!--
 **Hyper-Intelligent-Monkey/Hyper-Intelligent-Monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
