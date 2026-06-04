@@ -50,14 +50,26 @@
 
 ---
 
-<h2 align="center">Featured Projects</h2>
-*   **[context-aware-virtual-assistant](https://github.com/your-username/your-repo)**  
-    A context-aware virtual assistant system built for the Android platform that provides adaptive guidance and UI highlighting.  
-    `Kotlin` `SQLite` `Gradle`
-
-*   **[semantic-check-api](https://github.com/your-username/your-repo)**  
-    A backend service optimized for text preprocessing, intent distillation, and structural input verification.  
-    `Python` `FastAPI` `NLTK`
+<table width="100%">
+  <tr>
+    <!-- Left Project Card -->
+    <td width="50%" valign="top">
+      <br />
+      &nbsp;&nbsp;📖 <b><a href="https://github.com/YOUR_USERNAME/com.thesis.system">com.thesis.system</a></b>
+      <br /><br />
+      &nbsp;&nbsp;<font color="#2ecc71">A context-aware virtual assistant system designed to provide navigational instruction through adaptive guidance.</font>
+      <br /><br />
+    </td>
+    <!-- Right Project Card -->
+    <td width="50%" valign="top">
+      <br />
+      &nbsp;&nbsp;📖 <b><a href="https://github.com/YOUR_USERNAME/semantic-api">semantic-api</a></b>
+      <br /><br />
+      &nbsp;&nbsp;<font color="#2ecc71">Backend server engine running natural language processing modules for text preprocessing and intent distillation.</font>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 ---
 
