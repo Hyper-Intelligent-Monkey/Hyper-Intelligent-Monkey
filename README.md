@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Vinn!&fontSize=40&animation=fadeIn" width="100%" />
 <p align="left">
   <h1 >This is my name: Vinn Runkee Cañares</h1>
   <h3 >Goal: Software Developer</h3>
@@ -48,11 +48,10 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
----
-
-#### ⭐ Featured & Starred Projects
-*   [**com.thesis.sytem**](https://github.com/Hyper-Intelligent-Monkey) - Context-aware virtual assistant for Android featuring manual navigation, adaptive guidance, and offline UI highlighting using SQLite.
-*   [**Android Accessibility Tools**](https://github.com/Hyper-Intelligent-Monkey) - Explored integration of Gemini LLMs alongside Android accessibility frameworks.
+<h4 align="left">Version Control</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
@@ -61,3 +60,4 @@
   <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%" />
