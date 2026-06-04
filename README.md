@@ -50,6 +50,19 @@
 
 ---
 
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code">
+    <img src="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code" alt="Context-Aware Virtual Assistant Application" width="49%" />
+  </a>
+  <a href="https://github.com/Hyper-Intelligent-Monkey/Thesis-Application-Source_Code">
+    <img src="https://github.com/Hyper-Intelligent-Monkey/ThesisSystemServer" alt="Backend LLM Server" width="49%" />
+  </a>
+</p>
+
+---
+
 <p align="left">
   <h4>Contact Me</h4>
   <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
