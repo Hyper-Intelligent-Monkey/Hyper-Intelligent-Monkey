@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Vinn!&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=40&animation=fadeIn" width="100%" />
 <p align="left">
   <h1 >This is my name: Vinn Runkee Cañares</h1>
   <h3 >Goal: Software Developer</h3>
