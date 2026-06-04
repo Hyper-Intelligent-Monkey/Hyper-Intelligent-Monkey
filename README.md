@@ -3,13 +3,6 @@
   <h1 >This is my name: Vinn Runkee Cañares</h1>
   <h3 >Goal: Software Developer</h3>
 </p>
----
-
-<p align="left">
-  <h4>Contact Me:</h4>
-  <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 ---
 
@@ -53,4 +46,12 @@
 <h4 align="left">Databases</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+---
+
+<p align="left">
+  <h4>Contact Me</h4>
+  <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
