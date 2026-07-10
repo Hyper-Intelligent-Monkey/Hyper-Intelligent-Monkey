@@ -71,4 +71,8 @@
   <a href="mailto:vinnrunkee.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/vinn-runkee-ca%C3%B1ares-053867414"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+<p align="left">
+  <h4>Personal Playground</h4>
+  <a href="https://laracasts.com/@Hyper-Intelligent-Monkey"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laracasts-dark.svg" alt="Laracast" /></a>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
