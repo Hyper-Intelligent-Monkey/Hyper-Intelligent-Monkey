@@ -73,6 +73,6 @@
 </p>
 <p align="left">
   <h4>Personal Playground</h4>
-  <a href="https://laracasts.com/@Hyper-Intelligent-Monkey"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laracasts-dark.svg" alt="Laracast" /></a>
+  <a href="https://laracasts.com/@Hyper-Intelligent-Monkey"><img width="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laracasts-dark.svg" alt="Laracast" /></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
