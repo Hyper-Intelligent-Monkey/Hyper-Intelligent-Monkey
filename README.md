@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<!-- Cloud Storage -->
+<h4 align="left">Cloud Storage</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+</p>
+
 <h4 align="left">Version Control</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
